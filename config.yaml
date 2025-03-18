@@ -1,0 +1,6 @@
+server:
+  port: 7860
+
+grok:
+  think_reason: false
+  disable_search: false
